@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Çalışma klasörü ve ödev dokümanı (repoya dahil değil)
+dev/
+*.pdf
+
+# kod.py ara çıktıları (yeniden üretilebilir, uygulama kullanmaz)
+app/data/b2b_raw.parquet
+app/data/b2b_clean.parquet
+
+# Yapay zekâ asistanı dosyaları (repoya dahil değil)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# Editör / sistem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

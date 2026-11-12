@@ -1,0 +1,11 @@
+﻿Adım,Kural,Açıklama,Satır,Ciro Etkisi
+Başlangıç,-,Ham veri,664154,29579960.23
+2.2 Silme,DUPLICATE,Birebir tekrarlı satır (ilki tutuldu),6213,162556.58
+2.5 Bayrak,QTY_MISSING,Miktar boş (değer fiyat sütununa kaymış görünüyor),6,0.0
+2.5 Bayrak,QTY_ZERO,Miktar sıfır (iade benzeri satır),5,0.0
+2.5 Bayrak,NETPRICE_NONPOSITIVE,Net fiyat sıfır veya negatif,10,0.0
+2.5 Bayrak,NETPRICE_GT_UNITPRICE,Net fiyat liste fiyatından yüksek (negatif indirim),5,0.05
+2.5 Bayrak,UNITPRICE_PLACEHOLDER,Liste fiyatı yer tutucu (< 0.01),9,0.05
+2.6 Not,DESC_EXCEL_CONVERTED,Ürün adı Excel tarafından tarih/saat/ondalığa çevrilmiş,150,16171.63
+2.6 Not,DOC_SERIES_SINGLETON,Belge serisinde tek fatura var (olağandışı belge),561,10801.08
+Sonuç,-,Analize giren geçerli satır,657920,29417403.6

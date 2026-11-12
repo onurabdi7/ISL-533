@@ -1,0 +1,7 @@
+# Metin dosyaları depoda LF ile tutulur (Windows/macOS/Linux arasında gereksiz fark oluşmasın)
+* text=auto eol=lf
+
+# İkili dosyalar
+*.parquet binary
+*.xlsx binary
+*.pdf binary

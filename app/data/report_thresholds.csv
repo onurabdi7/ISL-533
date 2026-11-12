@@ -1,0 +1,4 @@
+﻿Ölçü,Yöntem,Alt Sınır,Üst Sınır,Satır,Satır (%),Ciro Payı (%)
+"Sales_Adjusted (uç satış, Ara.2020 TL)","log1p Tukey, k=3.0",,887.12,2282,0.35,16.97
+DiscountRate (Düşük İndirim),"Tukey, k=3.0",0.2005,0.5496,8512,1.29,1.16
+DiscountRate (Yüksek İndirim),"Tukey, k=3.0",0.2005,0.5496,8477,1.29,0.69
