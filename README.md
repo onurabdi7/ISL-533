@@ -5,8 +5,7 @@
 Bir B2B kitap dağıtıcısının 2020 yılı satış verisi üzerinde satış, pazarlama ve tedarik zinciri
 ekipleri için karar destek paneli.
 
-**Canlı panel:** _yayın sonrası eklenecek_
-
+**Canlı panel:** https://isl533-kitap.streamlit.app/
 ## Sayfalar
 
 | Sayfa | İçerik |
